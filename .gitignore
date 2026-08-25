@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+data/*.csv
+!data/.gitkeep
+!data/scored_accounts.csv
